@@ -1,0 +1,20 @@
+.skills__section {
+  background-color: rgba(39, 39, 39, 0.795);
+  width: 100%;
+  color: white;
+  display: flex;
+  padding: 1rem 0;
+}
+.progress-bar {
+  background: rgb(13, 23, 0) !important;
+  background: linear-gradient(
+    159deg,
+    rgba(13, 23, 0, 1) 0%,
+    rgba(29, 102, 9, 1) 10%,
+    rgba(98, 212, 112, 1) 48%,
+    rgba(0, 179, 37, 1) 100%
+  ) !important;
+}
+.skills__section h2 {
+  text-align: center;
+}

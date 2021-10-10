@@ -1,0 +1,16 @@
+.footer__section .row {
+  justify-content: space-between;
+}
+.footer__section {
+  background-image: url("../../assets/bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
+  min-height: 10rem;
+  margin-top: 1rem;
+}
+.footer__section button {
+  background-color: rgba(0, 0, 0, 0.795);
+  color: white;
+}

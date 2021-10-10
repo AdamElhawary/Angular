@@ -1,0 +1,19 @@
+.porto__section .row {
+  justify-content: space-between;
+}
+.card {
+  background-color: rgba(39, 39, 39, 0.795);
+  color: white;
+  width: 31.3%;
+  margin: 2px;
+}
+.card a {
+  background: rgb(13, 23, 0) !important;
+  background: linear-gradient(
+    159deg,
+    rgba(13, 23, 0, 1) 0%,
+    rgba(29, 102, 9, 1) 10%,
+    rgba(98, 212, 112, 1) 48%,
+    rgba(0, 179, 37, 1) 100%
+  ) !important;
+}

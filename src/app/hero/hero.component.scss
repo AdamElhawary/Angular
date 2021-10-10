@@ -1,0 +1,15 @@
+.hero__section {
+  background-image: url("../../assets/bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  min-height: 25rem;
+  width: 100%;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+.hero__section button {
+  background-color: rgba(0, 0, 0, 0.795);
+  color: white;
+}
